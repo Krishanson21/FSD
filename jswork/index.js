@@ -72,8 +72,8 @@
 // selectCompiler(javaCompiler);
 // selectCompiler(c+Compiler);
 
-console.log("hello world");
-console.log(document);
-let parent=document.getElementsByClassName("parent")
-console.log(parent);
-paremt[0].innerText=" ch2";
+// console.log("hello world");
+// console.log(document);
+// let parent=document.getElementsByClassName("parent")
+// console.log(parent);
+// paremt[0].innerText=" ch2";
