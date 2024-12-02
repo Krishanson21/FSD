@@ -3,6 +3,8 @@ import Student from './Student';
 import './student.css';
 import Usestudentstate from './Usestudentstate';
 import Imagemanipulation from './Imagemanipulation';
+import UseFetchAPI from './UseFetchAPI';
+import Login from './Login';
 
 function HelloWorld() {
   const h1 = <h1>Hello World!</h1>
@@ -41,7 +43,7 @@ function HelloWorld() {
       <h2>Hello</h2>
     <div>
       {/* <Usestudentstate></Usestudentstate> */}
-      <UseFetchApi></UseFetchApi>
+      <Login></Login>
     </div>
     </div>
     // <div style={{backgroundColor : 'orange'}}>
